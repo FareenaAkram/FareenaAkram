@@ -89,7 +89,6 @@ A tool for tracking career milestones and growth goals over time.
 Personal portfolio showcasing projects, skills, and experience.
 **Stack:** JavaScript
 
-> 💡 *Tip: add a one-line "impact" sentence to each repo's own README (e.g. "Reduced load time by 40%" or "Used by X users") — recruiters read pinned repos, not just this page.*
 
 ---
 
