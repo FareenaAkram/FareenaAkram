@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fareena Akram</h1>
-<h3 align="center">Frontend Engineer | Angular · React · Next.js · TypeScript</h3>
+<h3 align="center">Frontend Engineer & AWS Solution Architect | React · Next.js · TypeScript</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fareena-akram-94a75b128/">
@@ -21,7 +21,7 @@
 
 ### 👩‍💻 About Me
 
-- 💼 Frontend Engineer with **4+ years of experience** across Angular, React, Next.js, and TypeScript
+- 💼 Frontend Engineer with **4+ years of experience** across React, Next.js, and TypeScript
 - 🚀 Focused on building **fast, accessible, production-ready** interfaces
 - 🌱 Currently deepening skills in **Next.js, AWS (Solutions Architect Associate track), and AI integrations**
 - 💡 Interested in frontend architecture, UI/UX systems, and AI-powered products
@@ -33,7 +33,6 @@
 
 **Frontend**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
